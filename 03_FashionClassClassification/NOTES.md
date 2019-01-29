@@ -130,7 +130,7 @@ What we did?
 
 Then we apply some flattening.
 
-![Maxpooling](img/6_4.png)
+![Flattening](img/6_4.png)
 
 
 
