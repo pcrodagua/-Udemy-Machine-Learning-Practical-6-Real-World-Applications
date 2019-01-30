@@ -142,7 +142,18 @@ Coding exercise, open the notebooks.
 
 Coding exercise, open the notebooks.
 
-
 # 9. Improving the Model
+## Convolutional Neural Network - Increae Filters/Dropout
+- Imporve accuracy by adding ore features detectors/filters or adding a dropout 
+- Dropout refers to dropping out units in a nerural network
+- Neurons develop co-dependency amongst each other during trainning 
+- Dropouts is a regularization technique for reducing overfitting in neural networks
+- It enables training to occur on everal architectures of the neural network
+
+![Filters/Dropout](img/8_1.png)
 
 # 10. Conclusion
+
+- Advanced techniques using more rich dataset can be used to analyse the color, texture and style besides the categorical clasification
+- Checkout [http://vue.ai](http://vue.ai)
+- Deep Fashion Dataset: [http://mmlab.ie.cuhk.edu.hk.projects/DeepFashion.html](http://mmlab.ie.cuhk.edu.hk.projects/DeepFashion.html)
